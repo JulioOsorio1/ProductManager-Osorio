@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "title": "Auriculares Inalámbricos Sony",
+        "description": "Auriculares Bluetooth",
+        "price": 101,
+        "stock": 99,
+        "category": "Electrónicos"
+        
+    },
+
+    {
+        "id": 2,
+        "title": "Teclado Mecánico",
+        "description": "Teclado mecánico",
+        "price": 102,
+        "stock": 2,
+        "category": "Electrónicos"
+    },
+
+    {
+        "id": 3,
+        "title": "Ratón Inalámbrico Barato",
+        "description": "Ratón inalámbrico",
+        "price": 103,
+        "stock": 3,
+        "category": "Electrónicos"
+        
+    },
+
+    {
+        "id": 4,
+        "title": "Camiseta de Algodón Hombre",
+        "description": "Camiseta de manga corta",
+        "price": 104,
+        "stock": 4,
+        "category": "Ropa"
+    },
+
+    {
+        "id": 5,
+        "title": "Pantalones Vaqueros Skinny",
+        "description": "Pantalones vaqueros",
+        "price": 205,
+        "stock": 5,
+        "category": "Ropa"
+    },
+
+    {
+        "id": 6,
+        "title": "Sudadera con Capucha",
+        "description": "Sudadera con capucha",
+        "price": 106,
+        "stock": 6,
+        "category": "Ropa"
+    },
+
+    {
+        "id": 7,
+        "title": "Tlevisor",
+        "description": "Monitor LED de 27",
+        "price": 107,
+        "stock": 7,
+        "category": "Electrónicos"
+    }
+]
