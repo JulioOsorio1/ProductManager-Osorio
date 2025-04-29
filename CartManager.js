@@ -44,7 +44,7 @@ class CartManager {
     async addProductToCart(cartId, productId) {
         const cart = await this.getCartById(cartId);
         if (!cart) {
-            return null; // El carrito no existe
+            return null; // no existe
         };
 
         const existingProduct = cart.products.find(item => item.product === productId);

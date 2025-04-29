@@ -85,7 +85,7 @@ class ProductManager {
         if (index === -1) {
             return null;
         }
-        updatedFields.id = id; // Aseguramos que el ID no se modifique
+        updatedFields.id = id; 
         this.products[index] = { ...this.products[index], ...updatedFields };
         await this.saveProducts();
         return this.products[index];
